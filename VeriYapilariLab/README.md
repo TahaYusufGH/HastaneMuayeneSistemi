@@ -59,4 +59,5 @@ veya kaynak kodundan:
 ```
 javac *.java
 java Main
-``` 
+```
+![Ekran görüntüsü 2025-05-17 230703](https://github.com/user-attachments/assets/605e732b-97e6-4f9b-b90e-ca6459bd35f3)
